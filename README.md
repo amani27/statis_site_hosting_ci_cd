@@ -1,0 +1,2 @@
+# statis_site_hosting_ci_cd
+statis_site_hosting_ci_cd
