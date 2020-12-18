@@ -13,3 +13,6 @@ phases:
       - ls
       - git describe --all
       - echo Build started on `date`
+artifacts:
+  files:
+    - '**/*'
